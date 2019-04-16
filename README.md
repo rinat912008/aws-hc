@@ -6,4 +6,4 @@ This gem defines a route in your Rails app for ELB healthchecks. The healthcheck
 gem 'aws-healthcheck'
 ```
 
-Your Rails app now returns a 200 from `/healthcheck`.
+Your Rails app now returns a 200 from `/hc`.

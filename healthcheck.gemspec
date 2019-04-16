@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Logan Serman']
   s.email       = ['loganserman@gmail.com']
   s.homepage    = 'http://github.com/lserman/healthcheck'
-  s.summary     = 'Mounts a Rack app at /healthcheck that returns a 200 for AWS load balancers'
+  s.summary     = 'Mounts a Rack app at /hc that returns a 200 for AWS load balancers'
   s.description = s.summary
   s.license     = 'MIT'
 
